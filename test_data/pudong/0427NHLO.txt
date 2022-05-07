@@ -1,0 +1,8 @@
+File Name:	0427NHLO
+Locality:	
+Note:	
+Meas. type:	GPS-Continual
+Meas. mode:	Combined
+Cal./Depth:	F-Ground, Hi
+Meas. time:	1.0 s
+Probe:	CMD-1

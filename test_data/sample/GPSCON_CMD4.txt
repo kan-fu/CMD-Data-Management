@@ -1,0 +1,8 @@
+File name:	821bs12
+Locality:	
+Note:	
+Meas. type:	GPS Continual
+Meas. mode:	Combined
+Cal./Depth:	F-1m, Hi
+Meas. time:	1.0 s
+Probe:	CMD-4
