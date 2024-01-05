@@ -16,4 +16,3 @@ Electromagnetic conductivity mapping is a novel tool to assess the land health b
 4. Pykrige as spating interpolation library (kriging)
 5. Matplotlib as plotting library
 6. Docker as containerization tool
-7. Leaflet and openstreetmap as mapping library
