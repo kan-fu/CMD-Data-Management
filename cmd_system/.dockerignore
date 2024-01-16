@@ -1,5 +1,0 @@
-.dockerignore
-media
-Dockerfile
-db.sqlite3
-migrations

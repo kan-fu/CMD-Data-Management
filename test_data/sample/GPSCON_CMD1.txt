@@ -1,8 +1,0 @@
-File name:	082112
-Locality:	
-Note:	
-Meas. type:	GPS Continual
-Meas. mode:	Combined
-Cal./Depth:	F-Ground, Lo
-Meas. time:	1.0 s
-Probe:	CMD-1

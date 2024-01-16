@@ -1,8 +1,0 @@
-File name:	821bs121
-Locality:	
-Note:	
-Meas. type:	GPS Continual
-Meas. mode:	Combined
-Cal./Depth:	F-1m, Lo
-Meas. time:	1.0 s
-Probe:	CMD-Explorer, shortest dipole has index 1
